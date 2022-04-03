@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31912.275
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "GameCopy", "GameCopy\GameCopy.pyproj", "{A03D5FA5-5B6D-4A63-B449-EAB1D3E5F2C9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A03D5FA5-5B6D-4A63-B449-EAB1D3E5F2C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A03D5FA5-5B6D-4A63-B449-EAB1D3E5F2C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F7484F7E-556A-4B7A-8C10-27B6F76A097B}
+	EndGlobalSection
+EndGlobal
