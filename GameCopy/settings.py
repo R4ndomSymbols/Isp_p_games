@@ -30,9 +30,9 @@ class Settings():
     def initialize_dynamic_settings(self):
         # Инициализация динамических настроек
 
-        self.ship_speed_factor = 1.5
+        self.ship_speed_factor = 2
         self.bullet_speed_factor = 3
-        self.alien_speed_factor = 1
+        self.alien_speed_factor = 0.9
 
         # Награда за пришельца.
         self.alien_points = 50
